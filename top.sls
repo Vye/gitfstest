@@ -4,3 +4,4 @@ dev:
     - formula2
     - formula3
     - formula4
+    - formula5
